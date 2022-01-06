@@ -590,6 +590,7 @@ final class MimeTypes implements MimeTypesInterface
         'application/vnd.ms-powerpoint.template.macroenabled.12' => ['potm'],
         'application/vnd.ms-project' => ['mpp', 'mpt'],
         'application/vnd.ms-publisher' => ['pub'],
+        'application/vnd.ms-office' => ['pub'],
         'application/vnd.ms-tnef' => ['tnef', 'tnf'],
         'application/vnd.ms-visio.drawing.macroenabled.main+xml' => ['vsdm'],
         'application/vnd.ms-visio.drawing.main+xml' => ['vsdx'],
